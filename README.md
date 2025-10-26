@@ -1,7 +1,3 @@
-Here’s your updated and polished **Frontend & Full-Stack MERN Developer** description — now including your **email** and **phone/WhatsApp contact** info.
-
----
-
 ### 💻 Frontend & Full-Stack MERN Developer | Building Scalable, Modern Web Experiences
 
 I'm **Youssef Shaaban**, a passionate **Frontend & Full-Stack MERN Developer** dedicated to creating seamless, high-performance web applications with clean, maintainable code. I specialize in the **MERN stack (MongoDB, Express.js, React, Node.js)** and have a strong focus on crafting responsive, user-centric interfaces powered by efficient backend architecture.
